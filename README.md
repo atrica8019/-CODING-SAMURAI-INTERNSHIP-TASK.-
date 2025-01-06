@@ -1,3 +1,3 @@
-# Simple Calculator
-This is a Python program to perform basic calculator operations like addition, subtraction, multiplication, and division.
+# CODINGSAMURAI PYTHON INTERNSHIP
+Different Python tasks to improve coding skills.
 

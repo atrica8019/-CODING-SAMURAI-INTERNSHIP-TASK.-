@@ -12,4 +12,3 @@ if response.status_code == 200: #status_code is to check whether we get the url
     print("Current Temperature is ",data["main"]["temp"])#inside main we have temp
     print("Current Temperature feels like is ",data["main"]["feels_like"])
     print("Current Humidity is ",data["main"]["humidity"])
-
